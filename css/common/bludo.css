@@ -1,0 +1,155 @@
+.bludo{
+    width: 1439px;
+    height: 1225px;
+    margin: -151px auto 0 auto;
+    border: solid 2px #F7C334;
+    display: flex;
+    padding: 110px 0 0 0;
+}
+h2{
+    height: 60px;
+    font-size: 54px;
+    color: #F7C334;
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    color: #ffd700;
+    margin: -125px 0 0 207px;
+    font-family: "Montserrat", sans-serif;
+
+}
+p{
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    margin: 17px 0 0 197px; 
+}
+.bludo_block{
+    height: 148px;
+    width: 455px;
+    align-items: center;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin:   162px 0 0 45px ;
+}
+
+.bludo_block2{
+    height: 148px;
+    width: 455px;
+    align-items: center;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin:   162px 0 0 0 ;
+}
+.bludo_block3{
+    height: 148px;
+    width: 455px;
+    align-items: center;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin:   162px 0 0 0 ;
+}
+.bludo_block4{
+    height: 148px;
+    width: 455px;
+    align-items: center;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin:   162px 0 0 0 ;
+}
+.bl_btn{
+    width: 134px;
+    height: 45px;
+    background: #F7C334;
+    border-radius: 120px;
+    color: #fff;
+    font-size: 19px;
+    margin: -10px 0 50px 667px  ;
+    font-family: "Montserrat", sans-serif;
+}
+.bl_btn:hover{
+    width: 134px;
+    height: 45px;
+    background: #b69026;
+    border-radius: 120px;
+    color: #dddddd;
+    font-size: 19px;
+    margin: -10px 0 50px 667px;
+    font-family: "Montserrat", sans-serif;
+}
+.bl_btn:active{
+    width: 134px;
+    height: 45px;
+    background: none;
+    border-radius: 120px;
+    color: #dddddd;
+    border: double 2px #F7C334;
+    font-size: 19px;
+    margin: -10px 0 50px 667px;
+    font-family: "Montserrat", sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.container {
+    border: solid 2px #F7C334;
+
+    display: block;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin:  0 auto;
+    width: 1440px;
+}
+
+.card {
+    background-color: #222;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.card .content {
+    padding: 10px 15px;
+}
+
+.card .title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.card .price {
+    font-size: 16px;
+    color: #f4d03f;
+    margin-bottom: 10px;
+}
+.block_blud{
+    margin: 60px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+.blblblb{
+    margin: 60px 0;
+    justify-content: space-around;
+    display: flex;
+}
